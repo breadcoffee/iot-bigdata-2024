@@ -40,22 +40,31 @@
 
 - 빅데이터 학습
     - 실습자료, 파이썬 기본(패스), 빅데이터 분석 기초학습 
-    - [넘파이](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day1/bda01_numpy_basic.ipynb)
-    - [판다스](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
-    - [맷플롭립](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
+    - [넘파이](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day1/bda01_numpy_basic.ipynb)
+    - [판다스](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day1/bda02_pandas_basic.ipynb)
+    - [맷플롭립](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day1/bda03_matplotlib_basic.ipynb)
 
 ## 2일차
 - 빅데이터 학습
     - 기초학습, 크롤링 관련
     - 셀레니움 + 뷰티플수프 같이 진행    
-    - [뷰티플수프](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
-    - [셀레니움](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
+    - [뷰티플수프](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day2/dba04_beautifulsoup_basic.ipynb)
+    - [셀레니움](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day2/dba05_selenium_basic.ipynb)
 
 - 빅데이터 실습
     - 스타벅스 입지 분석
-    - [스벅입지분석](https://github.com/breadcoffe/Iot-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
+    - [스벅입지분석](https://github.com/breadcoffee/Iot-bigdata-2024/blob/main/day2/dba06_starbucks_analysis.ipynb)
 
 ## 3일차
+- 개인 토이프로젝트
+    - 깃헙 리포지토리, 빅데이터, 머신러닝, 딥러닝 레퍼런스를 참조 -> 클로닝형태
+    - 리포지토리 10개 정도 리스트업 또는 리포지토리 검색해서 진행
+
+- 빅데이터 실습
+    - 스타벅스 입지 분석(계속)
+    -  지난주 최종으로 만든 데이터 csv파일 다시 로드
+    - [스벅입지분석](https://github.com/breadcoffee/iot-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
+
 
 ## 4일차
 
