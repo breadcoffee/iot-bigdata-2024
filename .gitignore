@@ -161,3 +161,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /day7/data/MNIST
+day8/yolov8n.pt
+day8/haarcascade_frontalface_default.xml
